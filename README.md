@@ -9,11 +9,6 @@
 A firmware for ESP8266 to control a simple lightbulb or led. 
 You can control the brightness and set different seconds of fade effect.
 
-**Hardware**
-
-- IR Transmitter;
-- DHT22;
-
 **WiKi**
 
 *Go to the [Wiki](https://github.com/curla92/LED-Dimmer-Homekit/wiki/EVE-CONFIG) to config.*
