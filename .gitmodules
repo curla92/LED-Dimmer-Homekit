@@ -1,0 +1,15 @@
+[submodule "components/esp-8266/esp-wifi-config"]
+	path = components/esp-8266/esp-wifi-config
+	url = https://github.com/maximkulkin/esp-wifi-config.git
+[submodule "components/esp-8266/esp-cjson"]
+	path = components/esp-8266/esp-cjson
+	url = https://github.com/maximkulkin/esp-cjson.git
+[submodule "components/common/esp-homekit"]
+	path = components/common/esp-homekit
+	url = https://github.com/maximkulkin/esp-homekit.git
+[submodule "components/common/esp-wolfssl"]
+	path = components/common/esp-wolfssl
+	url = https://github.com/maximkulkin/esp-wolfssl.git
+[submodule "lib/esp-adv-button"]
+	path = lib/esp-adv-button
+	url = https://github.com/RavenSystem/esp-adv-button.git
