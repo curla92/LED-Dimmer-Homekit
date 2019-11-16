@@ -24,3 +24,5 @@ The project is based on accessory server library ESP-HomeKit from [@MaximKulkin]
 Also it uses the OTA update system [Life-Cycle-Manager (LCM)](https://github.com/HomeACcessoryKid/life-cycle-manager) from [@HomeACcessoryKid](https://github.com/HomeACcessoryKid).
 
 A special thanks to [@GPL71](https://github.com/GPL71) , [@lizzus](https://github.com/lizzus) for their support.
+
+Some code strigs come from [@RavenSystem](https://github.com/RavenSystem/esp-homekit-devices) work. I'd like to thank him to help the community to develope.
