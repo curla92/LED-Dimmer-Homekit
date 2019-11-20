@@ -25,4 +25,4 @@ Also it uses the OTA update system [Life-Cycle-Manager (LCM)](https://github.com
 
 A special thanks to [@GPL71](https://github.com/GPL71) , [@lizzus](https://github.com/lizzus) for their support.
 
-Some code strigs come from [@RavenSystem](https://github.com/RavenSystem/esp-homekit-devices) work. I'd like to thank him to help the community to develope.
+Some code strings come from [@RavenSystem](https://github.com/RavenSystem/esp-homekit-devices) work. I'd like to thank him to help the community to develope.
